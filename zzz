@@ -363,7 +363,7 @@
 
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
-proxies:  
+prox:  
 - name: "Server -广州"
     type: socks5
     server: "81.71.150.131"
